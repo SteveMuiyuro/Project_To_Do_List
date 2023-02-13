@@ -1,1 +1,1 @@
-This project is part of the Odin Project curriculum desined to evaluate webpack and module creation skills.
+This is part of an odin project evaluation project to test the understanding of Dom manipulation, classes, factory functions.
